@@ -27,4 +27,4 @@ RentOps solves this by:
 
 RentOps deals with private keys to sign closure transactions. For maximum security, we strongly recommend deploying your own instance of the RentOps infrastructure.
 
-[→ Deploy Your Own Infrastructure](https://rentops.davidnzube.xyz/docs)
+[→ Deploy Your Own Infrastructure](https://rentops.davidnzube.xyz/docs/installation)
